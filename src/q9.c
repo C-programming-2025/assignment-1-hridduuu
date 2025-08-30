@@ -2,7 +2,7 @@
 // Example: 
 // Input = 10
 // Output = "1 week and 3 days"
-#include <Stdio.h>
+#include <stdio.h>
 int main()
 {
     int input, week, day;
