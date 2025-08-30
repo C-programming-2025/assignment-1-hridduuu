@@ -1,4 +1,4 @@
-// Given three variables a, b, and c, write an expression that checks if a is equal to b and b is not equal to c.
+
 #include <stdio.h>
 int main()
 {
